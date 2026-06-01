@@ -7,6 +7,8 @@ import CompareSection from "@/components/CompareSection";
 import FAQSection from "@/components/FAQSection";
 import PricingSection from "@/components/PricingSection";
 import BeforeAfterSection from "@/components/BeforeAfterSection";
+import ColumnSection from "@/components/ColumnSection";
+import ReviewSection from "@/components/ReviewSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 
@@ -22,6 +24,8 @@ export default function Home() {
       <FAQSection />
       <PricingSection />
       <BeforeAfterSection />
+      <ColumnSection />
+      <ReviewSection />
       <ContactSection />
       <Footer />
     </main>
